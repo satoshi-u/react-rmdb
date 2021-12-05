@@ -24,3 +24,5 @@ yarn-error.log*
 
 # shouldn't add env file
 .env
+
+react-rmdb-v3-starter-files-master/
